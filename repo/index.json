@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "name": "jkelol111's Personal Notes Repository",
+        "owners": {
+            "jkelol111 (Nam)": {
+                "GitHub": "https://github.com/jkelol111"
+            }
+        }
+    },
+    "db": {
+        "schema": 1,
+        "path": "/notes/"
+    }
+}
